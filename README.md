@@ -86,17 +86,17 @@ DATA USED:
 📄 employee_data.csv [Download]([Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21019895/Palmoria.Group.emp-data.csv)
 )
 
-📊 Power BI Dashboard 
-
-<img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
-
-
 ## File for analysis:
 
 📄 Files for Analysis [Download Here]([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21020107/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
 )
 
-📄 Files for Dashboardn[Download Here]([Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21020206/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf))
+📄 Files for Dashboard [Download]()
+📊 Power BI Dashboard 
+
+<img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
+
+
 
 
 
