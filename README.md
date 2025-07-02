@@ -19,7 +19,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 ---
 
 ##  Tools Used
-- **Power BI** (for data cleaning, visualization, and analysis)
+- **Power BI** (for data cleaning, visualization, and analysis) 
 - **DAX** and **Power Query** (for calculated fields and logic)
 - **Excel** (preprocessing and supporting bonus rule data)
 
@@ -78,22 +78,34 @@ This analysis helps Palmoria Group take proactive steps to improve workplace equ
 
 ## 📁 Project Structure
 
-📊 Power BI Dashboard <img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
-📄 insights_report.pdf 
+DATA USED:
 
-
-
-
-```bash
-📂 Palmoria-Gender-Analysis/
-│
-├── 📊 Power BI Dashboard ([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21019227/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
+📄 bonus_rules.xlsx [Download]([Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21019880/Palmoria.Group.Bonus.Rules.xlsx)
 )
-├── 📄 bonus_rules.xlsx
-├── 📄 employee_data.csv
-├── 📄 README.md (this file)
-└── 📄 insights_report.pdf (Palmoria_Dashboard_Perpetual Okolie[Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21019179/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)
+
+📄 employee_data.csv [Download]([Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21019895/Palmoria.Group.emp-data.csv)
 )
+
+📊 Power BI Dashboard 
+
+<img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
+
+
+## File for analysis:
+
+📄 Files for Analysis [Download Here]([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21020107/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
+)
+
+📄 Files for Dashboard [Download Here]([Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21020132/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)
+)
+
+
+
+
+
+
+
+
 
 
 
