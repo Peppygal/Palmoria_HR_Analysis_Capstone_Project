@@ -33,8 +33,13 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-## 🔍 Key Analysis & Insights
+##  Key Analysis & Insights:
+   Data Visualization:
+ - The analysis results were visualized using PowerBI.
+ - Slicers were implemented to provide interactivity and enhance the dashboard's usability. Overall, the analysis and visualization process facilitated a thorough examination of the data, enabling the extraction of      valuable insights and presenting them in an interactive and visually appealing manner.
 
+  These are as a result of our analysis:
+  
 ### 1. Gender Distribution
 - Males dominate the workforce across all three regions.
 - Some departments had no female representation, indicating bias in hiring or retention.
@@ -59,7 +64,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-## 📌 Recommendations
+##  Recommendations
 - **Diversity hiring drive** for underrepresented departments and regions
 - **Internal review of performance appraisal processes** to ensure fairness
 - **Immediate salary adjustment** for employees earning below the legal minimum
@@ -68,8 +73,30 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 This analysis helps Palmoria Group take proactive steps to improve workplace equality, restore its public image, and meet regulatory requirements. With proper implementation of the recommendations, the company can build a more inclusive and equitable workplace.
+
+## 📁 Project Structure
+
+📊 Power BI Dashboard <img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
+📄 insights_report.pdf 
+
+
+
+
+```bash
+📂 Palmoria-Gender-Analysis/
+│
+├── 📊 Power BI Dashboard ([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21019227/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
+)
+├── 📄 bonus_rules.xlsx
+├── 📄 employee_data.csv
+├── 📄 README.md (this file)
+└── 📄 insights_report.pdf (Palmoria_Dashboard_Perpetual Okolie[Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21019179/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)
+)
+
+
+
 
 
 
