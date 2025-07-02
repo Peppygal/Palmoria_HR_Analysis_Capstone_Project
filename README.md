@@ -1,6 +1,26 @@
 # Palmoria_HR_Analysis_Capstone_Project
 Palmora Group HR Analysis  
 
+# Content:
+
+Project Overview
+
+Objectives
+
+Expected Outcomes
+
+Exploratory Data Analysis
+
+Tools Used
+
+Analysis
+
+Business Task and Dashboard Component
+
+Key Strategies and Recommendations
+
+Conclusion
+
 ##  Project Overview
 This project focuses on identifying and addressing gender-related inequalities within Palmoria Group, a Nigerian manufacturing company operating across three regions. The primary goal is to uncover disparities in gender distribution, performance evaluation, and salary structure using HR data analysis.
 By examining employee data through Power BI, the project aims to: Provide the management with evidence-based insights on gender representation, highlight areas with potential gender pay gaps, assess compliance with new wage regulations, and support strategic decision-making around HR policy reform, diversity and inclusion initiatives, and compensation fairness.
@@ -91,7 +111,11 @@ DATA USED:
 📄 Files for Analysis [Download Here]([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21020107/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
 )
 
-📄 Files for Dashboard [Download]()
+📄 Files for Dashboard [Download]([Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21022249/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)
+)
+
+
+
 📊 Power BI Dashboard 
 
 <img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
