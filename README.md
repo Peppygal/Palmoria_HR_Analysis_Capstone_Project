@@ -9,7 +9,7 @@ Palmora Group HR Analysis
 
 [Expected Outcomes](#expected-outcomes)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
+[Exploratory Data Analysis](exploratory-data-analysis)
 
 [Tools Used](#tools-used)
 
