@@ -114,9 +114,6 @@ DATA USED:
 📄 Files for Dashboard [Download pdf Here]([Uploading Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf…]()
 )
 
-
-
-
 📊 Power BI Dashboard 
 
 <img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
