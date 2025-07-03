@@ -3,7 +3,7 @@ Palmora Group HR Analysis
 
 # Content:
 
-Project Overview
+[Project Overview](#project-overview)
 
 Objectives
 
