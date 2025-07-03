@@ -111,8 +111,9 @@ DATA USED:
 📄 Files for Analysis [Download Here]([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21020107/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
 )
 
-📄 Files for Dashboard [Download]([Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21022249/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)
+📄 Files for Dashboard [Download pdf Here]([Uploading Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf…]()
 )
+
 
 
 
