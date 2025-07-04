@@ -7,11 +7,11 @@ Palmora Group HR Analysis
 
 [Objectives](#objectives)
 
+[Tools Used](#tools-used)
+
 [Expected Outcomes](#expected-outcomes)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
-
-[Tools Used](#tools-used)
 
 [Analysis](#analysis)
 
@@ -27,10 +27,10 @@ Palmora Group HR Analysis
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
-- [Expected Outcomes](#expected-outcomes)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Tools Used](#tools-used)
-- [Analysis](#analysis)
+- [Expected Outcomes](#expected-outcomes)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
+- [Key Analysis & Insights](#key-analysis-&-insights)
 - [Business Task and Dashboard Component](#business-task-and-dashboard-component)
 - [Key Strategies and Recommendations](#key-strategies-and-recommendations)
 - [Conclusion](#conclusion)
@@ -98,7 +98,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-##  Recommendations
+##  Key Strategies and Recommendations
 - **Diversity hiring drive** for underrepresented departments and regions
 - **Internal review of performance appraisal processes** to ensure fairness
 - **Immediate salary adjustment** for employees earning below the legal minimum
