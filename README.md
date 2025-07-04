@@ -52,12 +52,63 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
   These are as a result of our analysis:
   
 
-##  Key Strategies and Recommendations
-- **Diversity hiring drive** for underrepresented departments and regions
-- **Internal review of performance appraisal processes** to ensure fairness
-- **Immediate salary adjustment** for employees earning below the legal minimum
-- **Close monitoring of pay structure** to ensure equal pay for equal roles
-- **Mentorship and promotion pathways** for high-performing female staff
+##  Key Strategies and Recommendations:
+
+1. Promote Gender Balance Across Departments
+
+Strategy: Launch targeted recruitment campaigns aimed at increasing female representation, especially in male-dominated departments like Engineering, Sales, and Manufacturing, this helps Balance teams promote innovation, collaboration, and reduce reputational risks tied to gender bias.
+
+2. Conduct Regular Pay Equity Audits
+
+Strategy: Implement quarterly or biannual reviews of employee salaries by gender, department, and region.
+
+Reason: To monitor and correct any pay gaps and ensure equal pay for equal roles and experience levels.
+
+3. Ensure Compliance with Minimum Wage Policy
+
+Strategy: Immediately adjust salaries for employees earning below the $90,000 threshold to align with legal standards.
+
+Reason: Avoid penalties, legal challenges, and foster fairness and employee trust.
+
+4. Redesign Performance Evaluation Process
+
+Strategy: Standardize and anonymize parts of the performance appraisal system to remove unconscious bias. Include diverse panels for performance reviews.
+
+Reason: Fairer evaluations will improve morale, trust, and align rewards more closely with actual contributions.
+
+5. Build a Transparent Bonus Framework
+
+Strategy: Publish clear bonus rules based on performance ratings and ensure that all employees understand the criteria.
+
+Reason: Transparency drives accountability and ensures perceived fairness in reward systems.
+
+6. Invest in Female Talent Development
+
+Strategy: Create mentorship programs, leadership training, and career advancement paths specifically for high-potential female employees.
+
+Reason: To strengthen the pipeline of female leaders and close representation gaps at management levels.
+
+7. Implement a Region-Specific HR Action Plan
+
+Strategy: Customize HR initiatives based on regional insights (e.g., South region salary adjustments, West region gender diversity improvements).
+
+Reason: A one-size-fits-all approach may not address the specific challenges found in each region.
+
+8. Track and Report Diversity KPIs
+
+Strategy: Integrate gender diversity metrics into the company’s HR dashboards and management reports.
+
+Reason: Helps leadership stay accountable and track progress toward equity goals over time.
+
+- These recommendations are designed to help Palmoria Group:
+
+- Improve internal equity
+
+- Comply with labor regulations
+
+- Foster a more inclusive workplace culture
+
+- And ultimately position itself as a modern, ethical, and competitive employer.
 
 ---
 
@@ -79,6 +130,8 @@ DATA USED:
 📄 Files for Dashboard [Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21054219/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)# 
 
 📊 Power BI Dashboard 
+
+This Power BI dashboard provides an insightful overview of employee compensation, gender representation, salary and performance ratings across Palmoria Group. The purpose is to highlight trends, identify disparities, and inform HR strategies for equity and transparency.
 
 <img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
 
