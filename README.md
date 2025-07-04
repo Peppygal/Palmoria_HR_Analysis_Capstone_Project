@@ -30,7 +30,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 ---
 
 ##  Tools Used
-- **Microsoft Power BI** BI [(http://www.microsoft.com/en-us/download)]
+- **Microsoft Power BI** [(http://www.microsoft.com/en-us/download)]
   (for data cleaning, visualization, and analysis) 
 - **DAX** and **Power Query** (for calculated fields and logic)
 - **Excel** (preprocessing and supporting bonus rule data)
