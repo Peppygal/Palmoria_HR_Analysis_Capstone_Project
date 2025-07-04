@@ -28,11 +28,10 @@ Palmora Group HR Analysis
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Tools Used](#tools-used)
-- [Expected Outcomes](#expected-outcomes)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
 - [Key Analysis & Insights](#key-analysis-&-insights)
-- [Business Task and Dashboard Component](#business-task-and-dashboard-component)
 - [Key Strategies and Recommendations](#key-strategies-and-recommendations)
+- [Business Task and Dashboard Component](#business-task-and-dashboard-component)
 - [Conclusion](#conclusion)
 
 ##  Project Overview
@@ -70,7 +69,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 ##  Key Analysis & Insights:
    Data Visualization:
  - The analysis results were visualized using PowerBI.
- - Slicers were implemented to provide interactivity and enhance the dashboard's usability. Overall, the analysis and visualization process facilitated a thorough examination of the data, enabling the extraction of      valuable insights and presenting them in an interactive and visually appealing manner.
+ - Slicers were implemented to provide interactivity and enhance the dashboard's usability. Overall, the analysis and visualization process facilitated a thorough examination of the data, enabling the extraction of valuable insights and presenting them in an interactive and visually appealing manner.
 
   These are as a result of our analysis:
   
@@ -110,7 +109,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 ##  Conclusion
 This analysis helps Palmoria Group take proactive steps to improve workplace equality, restore its public image, and meet regulatory requirements. With proper implementation of the recommendations, the company can build a more inclusive and equitable workplace.
 
-## 📁 Project Structure
+## 📁 Business Task and Dashboard Component
 
 DATA USED:
 
