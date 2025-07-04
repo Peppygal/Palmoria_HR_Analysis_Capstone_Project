@@ -178,9 +178,10 @@ Final Summary
 ---
 
 ### Files in this Repository
-PalmoriaDashboard.pbix — Overview of the entire Power BI dashboard file
-visuals.png — Screenshot preview of the dashboard
-README.md — Project documentation (this file)
+
+- PalmoriaDashboard.pbix — Overview of the entire Power BI dashboard file
+- visuals.png — Screenshot preview of the dashboard
+- README.md — Project documentation (this file)
 
 ---
 
