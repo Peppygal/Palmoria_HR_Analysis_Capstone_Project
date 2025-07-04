@@ -21,6 +21,20 @@ Palmora Group HR Analysis
 
 [Conclusion](#conclusion)
 
+
+
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Expected Outcomes](#expected-outcomes)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Tools Used](#tools-used)
+- [Analysis](#analysis)
+- [Business Task and Dashboard Component](#business-task-and-dashboard-component)
+- [Key Strategies and Recommendations](#key-strategies-and-recommendations)
+- [Conclusion](#conclusion)
+
 ##  Project Overview
 This project focuses on identifying and addressing gender-related inequalities within Palmoria Group, a Nigerian manufacturing company operating across three regions. The primary goal is to uncover disparities in gender distribution, performance evaluation, and salary structure using HR data analysis.
 By examining employee data through Power BI, the project aims to: Provide the management with evidence-based insights on gender representation, highlight areas with potential gender pay gaps, assess compliance with new wage regulations, and support strategic decision-making around HR policy reform, diversity and inclusion initiatives, and compensation fairness.
