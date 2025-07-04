@@ -83,7 +83,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-## 📁 Business Task and Dashboard Component
+## Business Task and Dashboard Component
 
 DATA USED:
 
