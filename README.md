@@ -15,7 +15,7 @@ Palmora Group HR Analysis
 
 [Analysis](#analysis)
 
-[Business Task and Dashboard Component](#business-task-and-dashboard-component)
+[Project Structure](#project-structure)
 
 [Key Strategies and Recommendations](#key-strategies-and-recommendations)
 
@@ -28,7 +28,7 @@ Palmora Group HR Analysis
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Tools Used](#tools-used)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
 - [Key Analysis & Insights](#key-analysis-&-insights)
 - [Key Strategies and Recommendations](#key-strategies-and-recommendations)
 - [Business Task and Dashboard Component](#business-task-and-dashboard-component)
