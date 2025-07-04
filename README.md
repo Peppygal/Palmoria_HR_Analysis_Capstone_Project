@@ -52,7 +52,29 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
   These are as a result of our analysis:
   
+### 1. Gender Distribution
+- Males dominate the workforce across all three regions.
+- Some departments had no female representation, indicating bias in hiring or retention.
 
+### 2. Ratings vs Gender
+- Males received slightly higher average ratings.
+- Fewer women were found in the top performance category, which affects bonuses and promotions.
+
+### 3. Gender Pay Gap
+- Significant pay gaps found in departments like Engineering and Sales.
+- South and West regions showed more disparity than the North.
+
+### 4. Minimum Wage Compliance
+- Not all employees earned the required minimum of $90,000.
+- Most below-compliance salaries were in the South region.
+- Created a salary band chart showing how many employees fall within each $10,000 range.
+
+### 5. Bonus Allocation
+- Bonuses were calculated based on a secondary dataset with rating-to-bonus rules.
+- Total salary (base + bonus) was computed for each employee.
+- Regional bonus payout summary was generated for budgeting.
+
+---
 ##  Key Strategies and Recommendations:
 
 1. Promote Gender Balance Across Departments
