@@ -1,4 +1,4 @@
-[Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21054219/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)# Palmoria_HR_Analysis_Capstone_Project
+Palmoria_HR_Analysis_Capstone_Project
 Palmora Group HR Analysis  
 
 ## Table of Contents
@@ -98,9 +98,7 @@ DATA USED:
 📄 Files for Analysis [Download Here]([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21020107/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
 )
 
-📄 Files for Dashboard [Download pdf Here]([Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21054224/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)
-)
-
+📄 Files for Dashboard [Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21054219/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)# 
 
 📊 Power BI Dashboard 
 
