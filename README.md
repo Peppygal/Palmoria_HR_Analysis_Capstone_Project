@@ -1,5 +1,6 @@
 Palmoria_HR_Analysis_Capstone_Project
-Palmora Group HR Analysis  
+
+## My Palmoria HR Data Analysis  
 
 ## Table of Contents
 - [Project Overview](#project-overview)
