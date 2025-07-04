@@ -152,7 +152,7 @@ This Power BI dashboard provides an insightful overview of employee compensation
 
 Final Summary
 
-#### Overall, the findings underscore the need for Palmoria Group to restructure its HR strategy, with a focus on gender equity, fair pay practices, and inclusive performance management. By implementing the recommendations derived from this analysis—such as targeted hiring, equitable salary reviews, and unbiased performance evaluations—the company can begin to rebuild trust, foster a more inclusive culture, and position itself for sustainable growth both locally and globally.
+#### Overall, the findings underscore the need for Palmoria Group to restructure its HR strategy, with a focus on gender equity, fair pay practices, and inclusive                performance management. By implementing the recommendations derived from this analysis—such as targeted hiring, equitable salary reviews, and unbiased performance           evaluations—the company can begin to rebuild trust, foster a more inclusive culture, and position itself for sustainable growth both locally and globally.
 ---
 
 
