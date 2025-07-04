@@ -29,7 +29,7 @@ Palmora Group HR Analysis
 - [Objectives](#objectives)
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Analysis & Insights](#analysis-&-insights)
+- [Analysis And Insights](#analysis-and-insights)
 - [Key Strategies and Recommendations](#key-strategies-and-recommendations)
 - [Business Task and Dashboard Component](#business-task-and-dashboard-component)
 - [Conclusion](#conclusion)
@@ -106,9 +106,6 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-##  Conclusion
-This analysis helps Palmoria Group take proactive steps to improve workplace equality, restore its public image, and meet regulatory requirements. With proper implementation of the recommendations, the company can build a more inclusive and equitable workplace.
-
 ## 📁 Business Task and Dashboard Component
 
 DATA USED:
@@ -132,6 +129,8 @@ DATA USED:
 <img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
 
 
+##  Conclusion
+This analysis helps Palmoria Group take proactive steps to improve workplace equality, restore its public image, and meet regulatory requirements. With proper implementation of the recommendations, the company can build a more inclusive and equitable workplace.
 
 
 
