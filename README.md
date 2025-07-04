@@ -28,8 +28,8 @@ Palmora Group HR Analysis
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Tools Used](#tools-used)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
-- [Key Analysis & Insights](#key-analysis-&-insights)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Analysis & Insights](#analysis-&-insights)
 - [Key Strategies and Recommendations](#key-strategies-and-recommendations)
 - [Business Task and Dashboard Component](#business-task-and-dashboard-component)
 - [Conclusion](#conclusion)
@@ -58,7 +58,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-##  Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis
 - Cleaned null departments and inactive employees
 - Assigned "Undisclosed" to missing gender entries
 - Created salary bands in intervals of $10,000
@@ -66,7 +66,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-##  Key Analysis & Insights:
+## Analysis & Insights:
    Data Visualization:
  - The analysis results were visualized using PowerBI.
  - Slicers were implemented to provide interactivity and enhance the dashboard's usability. Overall, the analysis and visualization process facilitated a thorough examination of the data, enabling the extraction of valuable insights and presenting them in an interactive and visually appealing manner.
