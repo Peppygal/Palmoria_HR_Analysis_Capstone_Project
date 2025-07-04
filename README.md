@@ -43,7 +43,7 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
 
 ---
 
-## Analysis & Insights:
+## Analysis And Insights:
    Data Visualization:
  - The analysis results were visualized using PowerBI.
  - Slicers were implemented to provide interactivity and enhance the dashboard's usability. Overall, the analysis and visualization process facilitated a thorough examination of the data, enabling the extraction of valuable insights and presenting them in an interactive and visually appealing manner.
