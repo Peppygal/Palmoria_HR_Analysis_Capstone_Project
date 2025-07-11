@@ -51,29 +51,71 @@ Ultimately, the analysis supports Palmoria’s broader goal of transforming into
  - Slicers were implemented to provide interactivity and enhance the dashboard's usability. Overall, the analysis and visualization process facilitated a thorough examination of the data, enabling the extraction of valuable insights and presenting them in an interactive and visually appealing manner.
 
   These are as a result of our analysis:
+
+### Gender Distribution by Department
+
+Result:
+
+Male: 49.15%
+
+Female: 46.62%
+
+Undisclosed: 4.23%
+
+Insight: The gender distribution across departments is relatively balanced, with males holding a slight majority. Female representation is strong, but still trails slightly behind. The 4.23% of employees who did not disclose their gender should be considered in future HR planning to improve transparency and engagement.
+
+### Department Distribution by Region
+
+Result:
+
+Kaduna: 38.16%
+
+Lagos: 26.43%
+
+Abuja: 35.41%
+
+Insight: Kaduna has the largest concentration of employees across departments, suggesting it may be the company’s operational hub. Abuja follows closely, while Lagos has the smallest departmental spread. This indicates that HR interventions, hiring, and gender policies may need to be region-specific, especially in Cardona where most of the workforce is concentrated.
+
+### Rating Distribution by Gender
+
+Result:
+
+Male: 465 ratings
+
+Female: 441 ratings
+
+Undisclosed: 40 ratings
+
+Insight: Males slightly outnumber females in total performance ratings, which reflects the gender ratio of the workforce. However, the gap is not extreme, which is a good sign of balanced appraisal activity. The lower count for undisclosed gender may suggest a lack of visibility or exclusion in formal evaluations. This should be addressed to ensure inclusivity in performance management.
+
+### Average Salary by Gender
+
+Male: $74,790
+
+Female: $72,136
+
+Undisclosed: $78,368
+
+Insight: Average salary data shows that male employees earn slightly more than female and undisclosed employees. While the gap is smaller than what is typically seen in many organizations, it still reflects a potential gender pay imbalance. A detailed salary audit is recommended to ensure fair compensation based on role and performance, not gender.
+
+### Salary Distribution by Gender
+
+Male: $34,777
+
+Female: $31,811
+
+Undisclosed: $3,134
+
+Insight: This visual highlights how salaries are distributed across male, female, and undisclosed employees. If males are more concentrated in higher salary bands, it supports the observed pay gap and may be influenced by role assignment, seniority, or performance outcomes. If the salary bands are balanced, it shows positive progress toward equitable pay.
+
+### Annual Bonus Distribution by Location
+
+Kaduna: $825,911
+Abuja: $801,144
+Lagos: $572,223
+
+Insight: Kaduna received the highest total bonus payout ($825,911), followed by Abuja ($801,144), and Lagos with the lowest ($572,223). This suggests that Kaduna likely has the largest workforce or more high-performing employees, while Lagos may have fewer staff or lower average ratings. The distribution highlights performance and workforce size differences across regions and can help guide future HR and compensation decisions.
   
-### 1. Gender Distribution
-- Males dominate the workforce across all three regions.
-- Some departments had no female representation, indicating bias in hiring or retention.
-
-### 2. Ratings vs Gender
-- Males received slightly higher average ratings.
-- Fewer women were found in the top performance category, which affects bonuses and promotions.
-
-### 3. Gender Pay Gap
-- Significant pay gaps found in departments like Engineering and Sales.
-- South and West regions showed more disparity than the North.
-
-### 4. Minimum Wage Compliance
-- Not all employees earned the required minimum of $90,000.
-- Most below-compliance salaries were in the South region.
-- Created a salary band chart showing how many employees fall within each $10,000 range.
-
-### 5. Bonus Allocation
-- Bonuses were calculated based on a secondary dataset with rating-to-bonus rules.
-- Total salary (base + bonus) was computed for each employee.
-- Regional bonus payout summary was generated for budgeting.
-
 ---
 ##  Key Strategies and Recommendations:
 
