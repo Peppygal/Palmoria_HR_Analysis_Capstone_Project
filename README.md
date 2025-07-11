@@ -189,33 +189,32 @@ DATA USED:
 
 ## File for analysis:
 
-📄 Files for Analysis [Download Here]([Palmora_Analysis_Report_Perpetual Okolie.xlsx](https://github.com/user-attachments/files/21020107/Palmora_Analysis_Report_Perpetual.Okolie.xlsx)
+📄 Files for Analysis [Download Here]([PALMORIA CLEANED DATA.xlsx](https://github.com/user-attachments/files/21188869/PALMORIA.CLEANED.DATA.xlsx)
 )
-
-📄 Files for Dashboard [Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf](https://github.com/user-attachments/files/21054219/Palmoria_Dashboard_Perpetual.Okolie-Overview.pdf)# 
 
 📊 Power BI Dashboard 
 
 This Power BI dashboard provides an insightful overview of employee compensation, gender representation, salary and performance ratings across Palmoria Group. The purpose is to highlight trends, identify disparities, and inform HR strategies for equity and transparency.
 
-<img width="614" height="345" alt="PALMORIA INTERACTIVE DASHBOARD" src="https://github.com/user-attachments/assets/5293e9cd-7628-47a2-a3af-3bb256326f50" />
+<img width="608" height="343" alt="PALMORIA INTERACTIVE DASHBOARD" src="https://github.com/user-attachments/assets/c59d97d3-811b-427d-a368-85f758033cc1" />
+
+---
 
 ##  Overall Conclusion
-- The HR data analysis conducted for Palmoria Group revealed critical gender-based disparities within the organization that require immediate strategic attention. Through in-depth exploration using Power BI, it became evident that gender imbalance, pay inequality, and inconsistent performance recognition exist across several departments and regions.
 
-- Firstly, the analysis showed a significant skew in gender distribution, with male employees dominating several core departments, particularly in technical and leadership roles. Some departments even recorded zero female representation, which raises concerns about the company’s recruitment, promotion, and retention practices.
+The HR data analysis conducted for Palmoria Group revealed key structural and equity-related insights that are critical to the company’s growth, compliance, and organizational culture. The gender distribution across the company is relatively balanced, with males representing 49.15%, females 46.62%, and 4.23% of employees choosing not to disclose their gender. However, certain departments and regions still show signs of gender clustering, where either males or females dominate specific roles, particularly in technical and leadership areas.
 
-- Secondly, there were clear indicators of a gender pay gap, particularly in regions like the South and departments such as Engineering, where male employees consistently earned more than their female counterparts for similar roles. This violates the principle of equal pay for equal work and could expose the company to reputational and legal risks.
+Performance rating distribution shows that male and female employees are nearly evenly rated, though slight disparities still exist that could influence bonus eligibility and career progression. The average salary analysis revealed that males generally earn more than their female counterparts, pointing to a potential gender pay gap that needs to be addressed through transparent compensation reviews.
 
-- Moreover, performance rating analysis indicated a trend where male employees were more frequently awarded higher ratings. Since these ratings influence both bonus allocation and career progression, the implications are substantial—female employees are not just underpaid but also undervalued in terms of recognition and reward.
+Regionally, Cardona hosts the highest number of employees and also received the largest share of total bonus payouts, followed by Abuja and Lagos. This trend suggests that workforce size and performance may be concentrated in specific regions, but it also raises questions about equitable distribution of rewards and opportunities across all locations.
 
-- In terms of regulatory compliance, the company is not fully aligned with the newly adopted $90,000 minimum wage requirement. A considerable number of employees, especially in the South region, fall below this threshold, signaling an urgent need for salary adjustments.
+Additionally, the rating and salary data indicate that some employees are still earning below the minimum wage threshold, particularly in regions like the South (if applicable to your earlier analysis), which may affect regulatory compliance and employee morale if not corrected.
 
-- The bonus distribution analysis helped calculate fair, performance-based compensation and revealed which regions and departments require more budget attention. It also supported creating a more transparent and structured bonus framework.
+In summary, the analysis has provided valuable insights into workforce composition, compensation structure, and regional dynamics within Palmoria Group. Addressing these findings through targeted HR strategies, including fair pay audits, performance review reforms, and diversity-focused initiatives, will help the company build a more inclusive, compliant, and performance-driven workplace as it prepares for further expansion. 
 
-Final Summary
+By implementing the recommendations derived from this analysis—such as targeted hiring, equitable salary reviews, and unbiased performance evaluations—the company can begin to rebuild trust, foster a more inclusive culture, and position itself for sustainable growth both locally and globally.
 
-#### Overall, the findings underscore the need for Palmoria Group to restructure its HR strategy, with a focus on gender equity, fair pay practices, and inclusive                performance management. By implementing the recommendations derived from this analysis—such as targeted hiring, equitable salary reviews, and unbiased performance           evaluations—the company can begin to rebuild trust, foster a more inclusive culture, and position itself for sustainable growth both locally and globally.
+
 ---
 
 ### Files in this Repository
