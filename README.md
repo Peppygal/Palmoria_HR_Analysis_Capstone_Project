@@ -156,8 +156,7 @@ DATA USED:
 
 This Power BI dashboard provides an insightful overview of employee compensation, gender representation, salary and performance ratings across Palmoria Group. The purpose is to highlight trends, identify disparities, and inform HR strategies for equity and transparency.
 
-<img width="748" alt="Palmoria Interactive Power BI Dashboard" src="https://github.com/user-attachments/assets/6076b325-31f0-4309-a52b-97cd1d0b0192" />
-
+<img width="614" height="345" alt="PALMORIA INTERACTIVE DASHBOARD" src="https://github.com/user-attachments/assets/5293e9cd-7628-47a2-a3af-3bb256326f50" />
 
 ##  Overall Conclusion
 - The HR data analysis conducted for Palmoria Group revealed critical gender-based disparities within the organization that require immediate strategic attention. Through in-depth exploration using Power BI, it became evident that gender imbalance, pay inequality, and inconsistent performance recognition exist across several departments and regions.
